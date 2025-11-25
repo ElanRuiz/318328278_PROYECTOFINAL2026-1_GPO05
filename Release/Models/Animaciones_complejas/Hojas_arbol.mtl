@@ -1,0 +1,21 @@
+newmtl Hojas_arbol:pasted__lambert16SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Hojas_de_arbol.jpg
+Ni 1.00
+newmtl Hojas_arbol:pasted__lambert18SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Hojas_arbol_amarillo.jpg
+Ni 1.00
+newmtl Hojas_arbol:pasted__lambert27SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Arbol_hojas.jpg
+Ni 1.00

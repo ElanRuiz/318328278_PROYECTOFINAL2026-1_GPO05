@@ -1,0 +1,244 @@
+newmtl Casa_de_Bety:initialShadingGroup
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl Casa_de_Bety:lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_azul_casa.jpg
+Ni 1.00
+newmtl Casa_de_Bety:lambert2SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Puertas_Chocolate.jpg
+Ni 1.00
+newmtl Casa_de_Bety:lambert3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Orillas_fachada.jpg
+Ni 1.00
+newmtl Casa_de_Bety:lambert4SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Barrotes_blancos.jpg
+Ni 1.00
+newmtl Casa_de_Bety:lambert5SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ladrillos.jpg
+Ni 1.00
+newmtl Casa_de_Bety:lambert6SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Concreto_banqueta.jpg
+Ni 1.00
+newmtl Casa_de_Bety:lambert7SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Piso_Jardin_Tiles.jpg
+Ni 1.00
+newmtl Casa_de_Bety:lambert8SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Techo_Tiles.jpg
+Ni 1.00
+newmtl Casa_de_Bety:lambert9SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Tierra_banqueta.jpg
+Ni 1.00
+newmtl Casa_de_Bety:lambert10SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ladrillos_Parejos.jpg
+Ni 1.00
+newmtl Casa_de_Bety:lambert11SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Concreto_Muro_Ladrillos.jpg
+Ni 1.00
+newmtl Casa_de_Bety:lambert13SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Vidrio_Blanco.jpg
+Ni 1.00
+newmtl Casa_de_Bety:lambert14SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Vidrio_Amarillo.jpg
+Ni 1.00
+newmtl Casa_de_Bety:lambert16SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Hojas_de_arbol.jpg
+Ni 1.00
+newmtl Casa_de_Bety:lambert17SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Tronco.jpg
+Ni 1.00
+newmtl Casa_de_Bety:lambert18SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Hojas_arbol_amarillo.jpg
+Ni 1.00
+newmtl Casa_de_Bety:lambert19SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Muro_calle_piedras.jpg
+Ni 1.00
+newmtl Casa_de_Bety:lambert20SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd PisoInterior_Casa_Bety.jpg
+Ni 1.00
+newmtl Casa_de_Bety:lambert21SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Pared_Comedor_Beige.jpg
+Ni 1.00
+newmtl Casa_de_Bety:lambert22SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Pared_Sala.jpg
+Ni 1.00
+newmtl Casa_de_Bety:lambert23SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Alfombra_Entrada.jpg
+Ni 1.00
+newmtl Casa_de_Bety:lambert24SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Pared_Cocina.jpg
+Ni 1.00
+newmtl Casa_de_Bety:lambert25SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Naranja_Puertas.jpg
+Ni 1.00
+newmtl Casa_de_Bety:lambert26SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Pared_Recamara_Bety.jpg
+Ni 1.00
+newmtl Casa_de_Bety:lambert28SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Asfalto.jpg
+Ni 1.00
+newmtl Casa_de_Bety:phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Marco_Ventanas_Gris.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 52.14
+newmtl Casa_de_Bety:phong2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Barrotes_Negros.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl Casa_de_Bety:phong3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Cristal.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl Casa_de_Bety:phong4SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Puerta_Entrada_Fuera.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl Casa_de_Bety:phong5SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Perilla_Puerta_Dorado.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl Casa_de_Bety:phong6SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Bordes_Interior_Cafe.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 52.14
+newmtl Casa_de_Bety:phong7SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Puertas_Chocolate.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 60.31

@@ -1,0 +1,76 @@
+newmtl Objetos_Extra1:pasted__lambert4SG5
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Barrotes_blancos.jpg
+Ni 1.00
+newmtl Objetos_Extra1:pasted__lambert26SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Pared_Recamara_Bety.jpg
+Ni 1.00
+newmtl Objetos_Extra1:pasted__lambert29SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Almohada2.jpg
+Ni 1.00
+newmtl Objetos_Extra1:pasted__lambert31SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Libro1.jpg
+Ni 1.00
+newmtl Objetos_Extra1:pasted__lambert35SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Alfombra.jpg
+Ni 1.00
+newmtl Objetos_Extra1:pasted__lambert38SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Cortina_Cuarto_Bety.jpg
+Ni 1.00
+newmtl Objetos_Extra1:pasted__pasted__lambert2SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Pintura_CuartoBety.jpg
+Ni 1.00
+newmtl Objetos_Extra1:pasted__pasted__phong1SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Marco_Pintura.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl Objetos_Extra1:pasted__phong1SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Marco_Ventanas_Gris.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 52.14
+newmtl Objetos_Extra1:pasted__phong7SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Puertas_Chocolate.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 60.31

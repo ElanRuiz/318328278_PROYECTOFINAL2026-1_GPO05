@@ -1,0 +1,101 @@
+newmtl Cuadros:lambert3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Area_blanca.jpg
+Ni 1.00
+newmtl Cuadros:lambert3SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Area_blanca.jpg
+Ni 1.00
+newmtl Cuadros:lambert4SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Pintura1.jpg
+Ni 1.00
+newmtl Cuadros:lambert5SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Pintura2.jpg
+Ni 1.00
+newmtl Cuadros:lambert6SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Marco_azul.jpg
+Ni 1.00
+newmtl Cuadros:lambert7SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Pintura3.jpg
+Ni 1.00
+newmtl Cuadros:lambert8SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Marco_naranja.jpg
+Ni 1.00
+newmtl Cuadros:lambert9SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Pintura4.jpg
+Ni 1.00
+newmtl Cuadros:phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Marco_dorado.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 89.21
+newmtl Cuadros:phong1SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Marco_dorado.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 89.21
+newmtl Cuadros:phong1SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Marco_dorado.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 89.21
+newmtl Cuadros:phong1SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Marco_dorado.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 89.21
+newmtl Cuadros:phong2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Marco_cafe.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 57.17

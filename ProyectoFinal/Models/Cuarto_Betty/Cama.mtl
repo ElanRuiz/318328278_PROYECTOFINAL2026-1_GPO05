@@ -1,0 +1,30 @@
+newmtl Cama:pasted__lambert4SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Barrotes_blancos.jpg
+Ni 1.00
+newmtl Cama:pasted__lambert29SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Almohada2.jpg
+Ni 1.00
+newmtl Cama:pasted__lambert30SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Almohada1.jpg
+Ni 1.00
+newmtl Cama:pasted__phong7SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Puertas_Chocolate.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 60.31

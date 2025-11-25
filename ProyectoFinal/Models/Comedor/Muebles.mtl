@@ -1,0 +1,36 @@
+newmtl Muebles:phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Perilla_Puerta_Dorado.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 65.96
+newmtl Muebles:phong1SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Perilla_Puerta_Dorado.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 65.96
+newmtl Muebles:phong2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Puertas_Chocolate.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 72.87
+newmtl Muebles:phong2SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Puertas_Chocolate.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 72.87
